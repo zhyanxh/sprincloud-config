@@ -1,2 +1,3 @@
-spring: 
-  profiles: prod
+spring:
+  application:
+    name: cloud-config-center-prod

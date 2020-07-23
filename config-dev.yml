@@ -1,2 +1,3 @@
 spring:
-   profiles: dev
+  application:
+    name: cloud-config-center-dev

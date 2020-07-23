@@ -1,2 +1,3 @@
-spring: 
-  profiles: test
+spring:
+  application:
+    name: cloud-config-center-test
